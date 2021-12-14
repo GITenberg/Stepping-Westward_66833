@@ -1,0 +1,25 @@
+_repo: Stepping-Westward_66833
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Francis, M. E.
+    aliases:
+    - Blundell, Mary Elizabeth
+    - Blundell, Mrs. Francis
+    - Blundell, Mary E. Sweetman
+    deathdate: 1930
+    gutenberg_agent_id: '4243'
+    url: http://www.gutenberg.org/2009/agents/4243
+    wikipedia: https://en.wikipedia.org/wiki/M._E._Francis
+description: ''
+gutenberg_issued: '2021-11-28'
+identifiers:
+  gutenberg: '66833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Stepping Westward
+url: http://www.gutenberg.org/ebooks/66833
